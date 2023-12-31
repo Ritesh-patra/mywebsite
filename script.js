@@ -125,10 +125,3 @@ smooth ();
 page1and2 ();
 page2 ();
 imgfot ();
-
-// if (window.innerWidth > 600) {
-//   smooth ();
-//   // page1and2 ();
-//   // page2 ();
-//   // imgfot ();
-// }
